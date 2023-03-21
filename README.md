@@ -99,7 +99,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Comming soon
+Comming soon!!!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -148,12 +148,12 @@ Open index.html using live server extension.
 
 ### Run tests
 
-> Comming soon
+ Comming soon!!!
 
 ### Deployment
 
 
-> Comming soon
+Comming soon!!!
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
