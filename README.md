@@ -59,7 +59,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 My new Blog <a name="about-project"></a>
 
-> This is my new blog I created it using HTML, CSS, and JavaScript
+> Hello Microvers, I created it using HTML, CSS, and JavaScript
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -70,7 +70,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+
 
 <details>
   <summary>Client</summary>
@@ -88,7 +88,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+
 
 -Added index.html file.
 -Added style.css file.
@@ -107,7 +107,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+It Will be great for you and your friends!!!
 
 To get a local copy up and running, follow these steps.
 
